@@ -8,7 +8,10 @@ body{
    text-shadow: 2px 2px rgb(209, 105, 8);
    color: rgba(14, 13, 13, 0.89);
 }
-
+.foy{
+    font-size: larger;
+    text-align: center;
+}
 .RR{
     text-align: center;
     text-decoration: underline;
