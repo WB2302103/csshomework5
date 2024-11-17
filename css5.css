@@ -1,0 +1,98 @@
+body{
+    background-color: rgb(255, 255, 255);
+}
+.a{
+    
+    text-align: center;
+   text-decoration: underline;
+   text-shadow: 2px 2px rgb(209, 105, 8);
+   color: rgba(14, 13, 13, 0.89);
+}
+
+.RR{
+    text-align: center;
+    text-decoration: underline;
+}
+.ee{
+    text-align: center;
+    text-decoration: underline;
+} 
+.TT{
+    text-align: center;
+    text-decoration: underline;
+}
+.rifa{
+    text-align: center;
+    text-decoration: underline;
+}
+.Text-Style{
+    width: 600px;
+    height: 600px;
+    border: 5px solid brown;
+    color:rgb(17, 30, 113);
+    text-transform: capitalize;
+    font-variant: normal;
+    text-indent: 10px;
+}
+.Text-Style1{
+    word-spacing: 5px;
+}
+.Text-Style2{
+   letter-spacing: 5px; 
+}
+.Text-Style3{
+    height: 500px;
+    width: 500px;
+    border: 5px solid burlywood;
+    margin-right: auto;
+   text-align-last: center;
+   color: rgb(4, 59, 49);
+   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.yy{
+    text-align: center;
+    text-decoration: underline rgb(141, 12, 115);
+}
+.uu{
+    text-align: center;
+    text-decoration: line-through tomato;
+    font-weight: lighter;
+    font-size: medium;
+}
+.Text-Style5{
+    text-decoration: overline rgb(39, 140, 255);
+}
+.oo{
+    text-shadow: 4px 4px 4px  violet;
+    text-align: center;
+    
+    color: rgb(18, 69, 69);
+}
+.cc{
+    width: 500px;
+    height: 500px;
+    border: 5px solid  crimson;
+    margin-right:800px;
+
+}
+.images{
+    height: 150px;
+    width: 150px;
+    vertical-align: bottom;
+}
+.image{
+    height:300px;
+    width: 300px;
+    vertical-align: auto;
+    
+}
+.Fonts-icons{
+    height: 500px;
+    width: 500px;
+    border: 5px solid violet;
+    margin-left: 800px;
+}
+.glg{
+    font-weight: bold;
+
+}
